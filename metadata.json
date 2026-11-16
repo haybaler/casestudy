@@ -1,0 +1,6 @@
+{
+  "name": "contextpaas.ai — Commercial Systems Architect | Life Sciences Commercial Intelligence",
+  "description": "Case Study 05 on contextpaas.ai: A commercial intelligence layer for a life sciences tools company featuring SQL warehouse modeling across 3,000 orders, executive telemetry, attribution ROAS, account health diagnostics, and live Gemini text-to-SQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
